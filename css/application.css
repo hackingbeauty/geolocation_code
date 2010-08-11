@@ -1,0 +1,10 @@
+/*	=Main Styles
+	...................................................................... */
+
+#carousel {border:1px solid red;float:left;width:100%;overflow:hidden;height:150px;}
+
+.click {float:left;margin-right:20px;}
+
+#slots {overflow:hidden;position:relative;}
+
+.slot {border:1px solid blue;width:100px;height:100px;float:left;margin-right:20px;margin-bottom:10px;padding:20px;}
